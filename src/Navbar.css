@@ -1,0 +1,31 @@
+#header {
+  border-bottom: 2px solid rgb(194, 193, 193);
+}
+.container-fluid b {
+  font-size: 15px;
+  cursor: pointer;
+}
+.container-fluid b:hover {
+  color: red !important;
+}
+
+.nav-link {
+  font-size: 16px !important;
+}
+
+#Off {
+  height: "50vh";
+  width: "100%";
+}
+
+.list_1{
+  width:33.3% !important;
+}
+
+nav{
+  font-size: small !important;
+}
+
+nav .active{
+  color:red !important;
+}
